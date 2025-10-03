@@ -35,7 +35,7 @@ li{
 h1{
     text-align: center;
     line-height: 25px;
-    color: rgb(55, 90, 205);
+    color: rgb(128, 0, 128);
     margin-bottom: 20px;
     padding: 20px;
     font-style: italic;
@@ -75,3 +75,4 @@ footer{
     padding: 15px;
     margin-top: 20px
 }
+
